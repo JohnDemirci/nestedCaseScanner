@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/johndemirci/Desktop/UmitDemirciLab4/src/main.c
+scanner.h
+/Users/johndemirci/Desktop/UmitDemirciLab4/src/scanner.h
+
+/Users/johndemirci/Desktop/UmitDemirciLab4/src/scanner.c
+scanner.h
+/Users/johndemirci/Desktop/UmitDemirciLab4/src/scanner.h
+
+/Users/johndemirci/Desktop/UmitDemirciLab4/src/scanner.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+

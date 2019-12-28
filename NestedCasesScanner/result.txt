@@ -1,0 +1,177 @@
+/Users/johndemirci/Downloads/lab4_scanner_1-2/cmake-build-debug/scanner1 ../input.txt
+
+
+identifier token
+token value is -> firstvar
+
+
+assignment token
+token value is -> =
+
+
+number token
+token value is -> 1
+
+
+semicolon token
+token value is -> ;
+
+
+identifier token
+token value is -> secondvar
+
+
+assignment token
+token value is -> =
+
+
+number token
+token value is -> 2
+
+
+semicolon token
+token value is -> ;
+
+
+repeat token
+token value is -> repeat
+
+
+left parenthesis token
+token value is -> (
+
+
+number token
+token value is -> 10
+
+
+right parenthesis token
+token value is -> )
+
+
+identifier token
+token value is -> thirdvar
+
+
+assignment token
+token value is -> =
+
+
+number token
+token value is -> 2
+
+
+multipication token
+token value is -> *
+
+
+left parenthesis token
+token value is -> (
+
+
+identifier token
+token value is -> firstvar
+
+
+plus token
+token value is -> +
+
+
+identifier token
+token value is -> secondvar
+
+
+right parenthesis token
+token value is -> )
+
+
+division token
+token value is -> /
+
+
+left parenthesis token
+token value is -> (
+
+
+identifier token
+token value is -> firstvar
+
+
+plus token
+token value is -> +
+
+
+number token
+token value is -> 2
+
+
+right parenthesis token
+token value is -> )
+
+
+semicolon token
+token value is -> ;
+
+
+repeat token
+token value is -> repeat
+
+
+left parenthesis token
+token value is -> (
+
+
+identifier token
+token value is -> firstvar
+
+
+plus token
+token value is -> +
+
+
+number token
+token value is -> 2
+
+
+multipication token
+token value is -> *
+
+
+identifier token
+token value is -> secondvar
+
+
+right parenthesis token
+token value is -> )
+
+
+repeat token
+token value is -> repeat
+
+
+left parenthesis token
+token value is -> (
+
+
+identifier token
+token value is -> thirdvar
+
+
+right parenthesis token
+token value is -> )
+
+
+print token
+token value is -> print
+
+
+identifier token
+token value is -> firstvar
+
+
+semicolon token
+token value is -> ;
+
+end of input
+
+Process finished with exit code 0
